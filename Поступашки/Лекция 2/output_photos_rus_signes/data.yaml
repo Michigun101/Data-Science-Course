@@ -1,0 +1,12 @@
+path: C:/Users/mikhail.zanochuev/Desktop/Repository/Data-Science-Course/Поступашки/Лекция 2/output_photos_rus_signes
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: warning
+  1: priority
+  2: prohibitory
+  3: mandatory
+  4: information
+  5: service
