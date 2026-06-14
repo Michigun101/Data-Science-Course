@@ -4,5 +4,17 @@
     "solved_at": "2026-05-27T16:19:20.108649",
     "best_time": 0.017693899979349226,
     "attempts": 2
+  },
+  "attention": {
+    "status": "solved",
+    "solved_at": "2026-06-03T15:00:13.575900",
+    "best_time": 0.02802949999932025,
+    "attempts": 1
+  },
+  "mha": {
+    "status": "solved",
+    "solved_at": "2026-06-03T16:12:28.090323",
+    "best_time": 0.022345899997162633,
+    "attempts": 1
   }
 }
