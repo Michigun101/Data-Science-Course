@@ -16,5 +16,11 @@
     "solved_at": "2026-06-03T16:12:28.090323",
     "best_time": 0.022345899997162633,
     "attempts": 1
+  },
+  "topk_sampling": {
+    "status": "solved",
+    "solved_at": "2026-06-16T16:54:16.533063",
+    "best_time": 0.4646090999999615,
+    "attempts": 6
   }
 }
